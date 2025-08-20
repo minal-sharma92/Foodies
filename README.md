@@ -14,7 +14,7 @@ Welcome to Foodies, a responsive online food ordering website designed to provid
 
 📞 Contact form for user queries
 
-bash git clone https://github.com/harshitatech25/Foodies.git
+bash git clone https://github.com/minal-sharma92/Foodies
 
 🚀 Technologies Used
 HTML – for structuring the content
