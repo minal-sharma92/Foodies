@@ -30,5 +30,7 @@ A contact page where users can reach out or give feedback.
 Responsive design that works on both desktop and mobile screens.
 👩‍💻 Author
 Minal Sharma GitHub: @minal-sharma92
+
 Usha Assudani GitHub: @UshaAssudani
+
 Harshita Harwani GitHub: @harshitatech25
